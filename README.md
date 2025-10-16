@@ -55,6 +55,10 @@
 ### 🧡 10월 후원
 
 <table>
+    <td align="center">
+      <img src="./public/logo/toss.png" alt="토스 로고" width="200"/><br/>
+      <b>비바 리퍼블리카</b>
+    </td>
   <tr>
   </tr>
 </table>
