@@ -104,7 +104,8 @@
 - 2025년 5월: 90/100명
 - 2025년 6월: ?/120명
 - 2025년 7월: ?/80명
-- 2025년 8월: 50명
+- 2025년 8월: 60명
+- 2025년 9월: 60명
 
 <a href="https://github.com/kakasoo" title="kakasoo"><img src="https://images.weserv.nl/?url=github.com/kakasoo.png&w=50&h=50&fit=cover&mask=circle&output=png" width="50" height="50" alt="kakasoo" /></a>
 <a href="https://github.com/8471919" title="8471919"><img src="https://images.weserv.nl/?url=github.com/8471919.png&w=50&h=50&fit=cover&mask=circle&output=png" width="50" height="50" alt="8471919" /></a>
