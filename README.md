@@ -27,7 +27,7 @@
 | 20:20 - 20:30 | 질의응답                                                                                                                                       |                                             |                                             |
 | 20:30 - 20:50 | session2 프롬프트 이렇게 쓰고있어요. 요청에서 워크플로우까지 - [조민혁](https://www.linkedin.com/in/morpheus1991/) 님                          | DX Lab                                      |                                             |
 | 20:50 - 21:00 | 질의응답                                                                                                                                       |                                             |                                             |
-| 21:00 - 21:20 | session3 [Ventyd](https://github.com/daangn/ventyd)를 공개해요 - 이벤트 소싱 라이브러리 - [원종혁](https://www.linkedin.com/in/jeehyukwon/) 님 | 당근                                        | [ventyd](https://github.com/daangn/ventyd)  |
+| 21:00 - 21:20 | session3 [Ventyd](https://github.com/daangn/ventyd)를 공개해요 - 이벤트 소싱 라이브러리 - [원지혁](https://www.linkedin.com/in/jeehyukwon/) 님 | 당근                                        | [ventyd](https://github.com/daangn/ventyd)  |
 | 21:20 - 21:30 | 질의응답                                                                                                                                       |                                             |                                             |
 
 -   종료 시간에 맞춰 타임 테이블이 조정될 수 있습니다.
