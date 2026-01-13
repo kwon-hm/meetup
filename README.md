@@ -2,16 +2,15 @@
 
 ![logo](./public/logo/banner.png)
 
-# 2025년 11월 모임 소개
+# 2026년 1월 모임 소개
 
 네트워킹에 참여할 의사가 있는 사람들만 신청 부탁드립니다. 모임 참여 신청 후 의도적으로 네트워킹에만 불참하는 경우, 다른 사람들의 참여 기회를 빼앗는 일이 되므로, **다음 번 모임부터 참여를 제한할 수 있습니다.**
 
 신청 당일, 24시간 내로 입금하지 않은 사람의 경우에도 자동으로 신청이 취소되니, 꼭 당일 입금 부탁드립니다.
 
--   [신청 링크](https://www.ticketa.co/events/63)
--   날짜 및 시간: 2025년 11월 28일 금요일 19시 입장
-    > 모임 장소가 업무 공간인 만큼 일찍 오시는 경우 입장이 불가할 수 있습니다. 양해 바랍니다.
--   장소: 강남대로 465 (교보타워) B동 11층 당근마켓 라운지
+-   [신청 링크](https://ticketa.co/event/tsbm-1weol-zox1w1na)
+-   날짜 및 시간: 2026년 1월 28일 수요일 19시 입장
+-   장소: [매듭캠퍼스](https://naver.me/GDLfg8Nc) - 서울 강남구 테헤란로53길 16 2층
 -   출입 방법: 입장 후 운영진 안내에 따라 명찰 배부 후 자리로 이동해주세요.
 -   참가 인원: 60명
 -   안내 사항:
@@ -20,15 +19,15 @@
 -   발표 순서
 -   타임 테이블은 운영진 논의에 따라 계속 조정될 수 있습니다!
 
-| 시간          | 내용 / 발표자                                                                                                                                  | 소속                                        | 자료                                        |
-| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- | ------------------------------------------- |
-| 19:00 - 20:00 | 피자와 함께 하는 자유 네트워킹                                                                                                                 |                                             |                                             |
-| 20:00 - 20:20 | session1 [오픈소스 프로젝트 Better Auth](https://www.better-auth.com/) - 김태수 님                                                             | [Better Auth](https://www.better-auth.com/) | [Better Auth](https://www.better-auth.com/) |
-| 20:20 - 20:30 | 질의응답                                                                                                                                       |                                             |                                             |
-| 20:30 - 20:50 | session2 프롬프트 이렇게 쓰고있어요. 요청에서 워크플로우까지 - [조민혁](https://www.linkedin.com/in/morpheus1991/) 님                          | DX Lab                                      |                                             |
-| 20:50 - 21:00 | 질의응답                                                                                                                                       |                                             |                                             |
-| 21:00 - 21:20 | session3 [Ventyd](https://github.com/daangn/ventyd)를 공개해요 - 이벤트 소싱 라이브러리 - [원지혁](https://www.linkedin.com/in/jeehyukwon/) 님 | 당근                                        | [ventyd](https://github.com/daangn/ventyd)  |
-| 21:20 - 21:30 | 질의응답                                                                                                                                       |                                             |                                             |
+| 시간          | 내용 / 발표자                                                                                        | 소속       | 자료 |
+| ------------- | ---------------------------------------------------------------------------------------------------- | ---------- | ---- |
+| 19:00 - 20:00 | 피자와 함께 하는 자유 네트워킹                                                                       |            |      |
+| 20:00 - 20:20 | session1 TSBM 메이커 회고: Deep Dive into Node.js Internals - 이창민 님                              | 플레어랩스 |      |
+| 20:20 - 20:30 | 질의응답                                                                                             |            |      |
+| 20:30 - 20:50 | session2 캐시 사용의 올바른 방법 - 최원준 님                                                         | Omelet     |      |
+| 20:50 - 21:00 | 질의응답                                                                                             |            |      |
+| 21:00 - 21:20 | session3 Stateful 서버 확장하기(Session-Aware Routing으로 브라우저 세션 일관성 유지하기) - 이국준 님 | 사각       |      |
+| 21:20 - 21:30 | 질의응답                                                                                             |            |      |
 
 -   종료 시간에 맞춰 타임 테이블이 조정될 수 있습니다.
 
@@ -37,6 +36,7 @@
 > 후원을 원하시는 모든 분들은 [이곳](https://github.com/ts-backend-meetup-ts/meetup/blob/main/CONTRIBUTING.md)을 읽어주세요.
 
 -   **뤼튼** 에서 피자와 콜라를 쏩니다!
+-   **매듭캠퍼스** 에서 장소를 후원해주십니다!
 
 ### ❤️ 정기 후원
 
@@ -52,8 +52,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="./public/logo/daangn.jpg" alt="당근 로고" width="200"/><br/>
-      <b>당근</b>
+      <b>매듭캠퍼스</b>
     </td>
   </tr>
 </table>
@@ -83,6 +82,7 @@
 -   [2025년 8월 모임](./public/2508/README.md)
 -   [2025년 9월 모임](./public/2509/README.md)
 -   [2025년 10월 모임](./public/2510/README.md)
+-   [2025년 11월 모임](./public/2511/README.md)
 
 # 🧑‍💻 역대 참가자
 
@@ -108,6 +108,8 @@
 -   2025년 7월: ?/80명
 -   2025년 8월: 60명
 -   2025년 9월: 60명
+-   2025년 10월: 60명
+-   2025년 11월: 60명
 
 <a href="https://github.com/kakasoo" title="kakasoo"><img src="https://images.weserv.nl/?url=github.com/kakasoo.png&w=50&h=50&fit=cover&mask=circle&output=png" width="50" height="50" alt="kakasoo" /></a>
 <a href="https://github.com/8471919" title="8471919"><img src="https://images.weserv.nl/?url=github.com/8471919.png&w=50&h=50&fit=cover&mask=circle&output=png" width="50" height="50" alt="8471919" /></a>
